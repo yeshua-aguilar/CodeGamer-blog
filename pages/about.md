@@ -1,19 +1,17 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: 2020-02-27 01:53:59
 title: About
-description: Some description.
 permalink: /about/
+description: "descripción sobre que se trata de mi web "
 ---
+<img src="https://i.ibb.co/60YbLCV/codegamer.png" alt="codegamer" border="0">
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+## Acerca de
 
-# About
+Bienvenidos a CodeGamer, tu fuente de noticias y análisis sobre tecnología y videojuegos. En nuestro sitio, encontrarás las últimas novedades, reseñas y artículos sobre los dispositivos, juegos y eventos más destacados del mundo gamer.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nuestro equipo de expertos en tecnología y apasionados de los videojuegos se mantiene siempre al tanto de las últimas tendencias del mercado para brindarte información precisa y confiable. En CodeGamer, nuestro objetivo es ofrecerte contenido de alta calidad para ayudarte a tomar las mejores decisiones al elegir tus dispositivos y juegos favoritos.
+
+Si eres un gamer empedernido, un entusiasta de la tecnología o simplemente alguien curioso, CodeGamer es el lugar ideal para ti. Únete a nuestra comunidad y descubre todo lo que necesitas saber para estar al día con el mundo de los videojuegos y la tecnología. ¡Visítanos hoy mismo y descubre todo lo que tenemos para ofrecer!
