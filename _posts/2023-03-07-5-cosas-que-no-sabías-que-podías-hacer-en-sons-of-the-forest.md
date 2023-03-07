@@ -8,7 +8,7 @@ description: Sons of The Forest es un juego de aventuras y exploración, donde e
   peligrosos enemigos.
 image: https://media.vandal.net/i/620x348/3-2023/20233613163886_2.jpg
 optimized_image: https://media.vandal.net/i/620x348/3-2023/20233613163886_2.jpg
-category: "{{slug}}"
+category: curiosidades
 tags:
   - videojuegos
   - pc

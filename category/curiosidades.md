@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Curiosidades
-slug: "{{slug}}"
+slug: curiosidades
 description: en este catalogo es donde esta los post de curisidades
 ---
