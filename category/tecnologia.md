@@ -1,6 +1,6 @@
 ---
 layout: category
-title: tecnologia
+title: Tecnología
 slug: "{{slug}}"
 description: aqui es donde esta todos los post de tecnologia
 ---
