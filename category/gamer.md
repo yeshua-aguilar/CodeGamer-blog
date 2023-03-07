@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Gamer
-slug: "{{slug}}"
+slug: gamer
 description: aqui es donde esta todos los post gamers
 ---
