@@ -6,7 +6,7 @@ description: Lo primero que debemos decir es que Bandai Namco acaba de anunciar
   un nuevo Dragon Ball Z Budokai Tenkaichi y nos tiene emocionados.
 image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/FqfhGf4aMAAKNLd.jpg?resize=750%2C400&ssl=1
 optimized_image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/FqfhGf4aMAAKNLd.jpg?resize=750%2C400&ssl=1
-category: "{{slug}}"
+category: gamer
 tags:
   - noticia
   - videojuego
