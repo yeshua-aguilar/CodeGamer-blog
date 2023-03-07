@@ -7,7 +7,7 @@ description: Si eres un fanático de los videojuegos y has estado esperando para
   comprar una nueva tarjeta gráfica, AMD tiene una sorpresa para ti.
 image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/action-bg.jpg?resize=750%2C400&ssl=1
 optimized_image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/action-bg.jpg?resize=750%2C400&ssl=1
-category: "{{slug}}"
+category: gamer
 tags:
   - videojuegos
   - noticia
