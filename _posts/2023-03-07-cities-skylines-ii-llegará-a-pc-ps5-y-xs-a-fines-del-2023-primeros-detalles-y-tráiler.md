@@ -7,7 +7,7 @@ description: "Nos complace anunciar que Cities: Skylines II se lanzará a finale
   del 2023 en PC, PS5 y XS."
 image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/Cities-Skylines-II_Key-Art.jpg?resize=750%2C400&ssl=1
 optimized_image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/Cities-Skylines-II_Key-Art.jpg?resize=750%2C400&ssl=1
-category: "{{slug}}"
+category: gamer
 tags:
   - videojuegos
   - noticia
