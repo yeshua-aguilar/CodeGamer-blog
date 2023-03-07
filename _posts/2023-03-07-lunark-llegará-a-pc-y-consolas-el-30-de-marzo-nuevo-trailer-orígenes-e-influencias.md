@@ -7,7 +7,7 @@ description: Lunark es el nuevo videojuego que llegará a PC y consolas el
   próximo 30 de marzo, y que promete llevarnos a través de una aventura épica
 image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/ss_6e1b4e13d746e5f3f406e026bf56a8d978e82aa5.1920x1080.jpg?resize=750%2C400&ssl=1
 optimized_image: https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2023/03/ss_6e1b4e13d746e5f3f406e026bf56a8d978e82aa5.1920x1080.jpg?resize=750%2C400&ssl=1
-category: "{{slug}}"
+category: gamer
 tags:
   - videojuego
   - pixel
